@@ -6,7 +6,8 @@ The solutions involve applying:
 - Least Squares method
 - Ridge Regression method
 - Bayesian Inference
-- Expectation-Maximization method To estimate the parameter vector and evaluate the Mean Squared Error.
+- Expectation-Maximization method .
+to estimate the parameter vector and evaluate the Mean Squared Error.
 
 Additionally, the notebook will investigate the effects of utilizing:
 ---
