@@ -1,7 +1,7 @@
 # Generalized-Linear-Models-numpy-only
 This repository contains a generalized regression analysis problem solved from scratch, using only the Numpy library. Throughout the development of this work, matrix operations with Numpy have been utilized whenever possible to ensure optimal performance. The code also includes certain classes and global functions that have been created from scratch to facilitate the implementation of the methodologies. Explanations of how these functions and classes work are explicitly mentioned and are provided when they are invoked in the code. Furthermore, additional comments on methodology and mathematical proofs are included in certain places, where they deemed necessary, to provide a deeper understanding of the solutions.
 
-The solutions involve implementing with Numpy and analyzing the prediction bias-variance of:
+The solutions involve implementing with Numpy and analyzing the prediction bias-variance of the following methods:
 ---
 - The Least Squares method
 - The Ridge Regression method
